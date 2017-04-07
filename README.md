@@ -1,3 +1,10 @@
+# TO DO LIST
+- [ ] Ordenar código
+- [ ] Subir Ejercicios que faltan
+- [ ] Hacer Ejercicios de Concurrencia
+- [ ] Subir enunciados de exámenes
+- [ ] Subir enunciados de ejercicios
+
 # PR4
 Repositorio de Ejercicios de Programación 4 de ULPGC
 ### Directorios
@@ -7,7 +14,8 @@ Repositorio de Ejercicios de Programación 4 de ULPGC
 
 [Javascript]() -> Ejercicios de Javascript (Proximamente)
 
-[Concurrencia (Java)](concurrence/main.java) -> Ejercicios de concurrencia
+[Concurrencia (Java)](https://github.com/Cyre/PR4/tree/master/FileProcessor/src/Concurrency/TextProcessor) -> Ejercicios de concurrencia.
+
 
 ### Exámenes resueltos
 Proximamente
