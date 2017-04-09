@@ -18,4 +18,4 @@ Repositorio de Ejercicios de Programación 4 de ULPGC
 
 
 ### Exámenes resueltos
-Proximamente
+[Examen Parcial 2015 HTML, CSS, PHP y Javascript](https://github.com/Cyre/ParcialPR42015/blob/master/README.md)
